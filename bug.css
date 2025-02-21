@@ -1,0 +1,1 @@
+This bug occurs when using Tailwind CSS's `@apply` directive with a class that doesn't exist or is misspelled.  This leads to the class not being applied, and can cause unexpected styling issues.  The error is not always immediately obvious as it might not produce a runtime error, but instead just silently fail to apply the styles.
