@@ -1,0 +1,10 @@
+/* bugSolution.css */
+
+.my-container {
+  @apply bg-gray-200 p-4 rounded;
+}
+
+/* Correct class name used */
+.my-container {
+  @apply bg-gray-200 p-4 rounded;
+}
